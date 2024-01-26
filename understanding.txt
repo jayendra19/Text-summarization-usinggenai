@@ -1,0 +1,13 @@
+there are 4 types of summarization 
+1.basic prompt summarization:-main aim is just to give simple prompt and do the summarization that any kind of data we have
+
+difference between the basic text prompt summarization and the prompt template summarization
+1. in basic we directly ask the model to summarize a given text i simply copy paste text into propmpt and ask model to summarize.
+
+2.in prompt template text summarization the templates provide clear instructions,signaling the text that i intend to summarize.
+The use of a template can help prevent the mixing up of instructions and input, which can lead to undesired outcomes3. It also 
+allows for more customization and can be more effective in generating desired results
+
+In summary, while basic prompt text summarization is simpler and more direct, prompt template text summarization offers more 
+control and can be more effective, especially for complex summarization tasks
+
